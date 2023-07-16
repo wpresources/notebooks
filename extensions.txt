@@ -1,8 +1,0 @@
-https://github.com/AUTOMATIC1111/stable-diffusion-webui$/content/drive/MyDrive
-https://github.com/Mikubill/sd-webui-controlnet$/content/drive/MyDrive/stable-diffusion-webui/extensions
-https://github.com/camenduru/sd-webui-tunnels$/content/drive/MyDrive/stable-diffusion-webui/extensions
-https://github.com/ashen-sensored/stable-diffusion-webui-two-shot$/content/drive/MyDrive/stable-diffusion-webui/extensions
-https://github.com/adieyal/sd-dynamic-prompts$/content/drive/MyDrive/stable-diffusion-webui/extensions
-https://github.com/DominikDoom/a1111-sd-webui-tagcomplete$/content/drive/MyDrive/stable-diffusion-webui/extensions
-https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg$/content/drive/MyDrive/stable-diffusion-webui/extensions
-https://github.com/ilian6806/rembgr$/content/drive/MyDrive/stable-diffusion-webui/extensions
