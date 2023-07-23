@@ -1,4 +1,5 @@
 {
+    "control_net_max_models_num": 3,
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "",
     "txt2img/Negative prompt/visible": true,
