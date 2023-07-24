@@ -1,2 +1,0 @@
-ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/Model /content/drive/MyDrive/SD-CSDM/models/Stable-diffusion
-ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/Lora /content/drive/MyDrive/SD-CSDM/models/Lora
