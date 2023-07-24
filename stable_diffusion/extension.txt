@@ -1,0 +1,16 @@
+git clone -b v2.4 https://github.com/camenduru/ui /content/drive/MyDrive/SD-CSDM
+git clone https://huggingface.co/embed/negative /content/drive/MyDrive/SD-CSDM/embeddings/negative
+git clone https://huggingface.co/embed/lora /content/drive/MyDrive/SD-CSDM/models/Lora/positive
+aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/embed/upscale/resolve/main/4x-UltraSharp.pth -d /content/drive/MyDrive/SD-CSDM/models/ESRGAN -o 4x-UltraSharp.pth
+git clone https://github.com/camenduru/sd-civitai-browser /content/drive/MyDrive/SD-CSDM/extensions/sd-civitai-browser
+git clone https://github.com/camenduru/control /content/drive/MyDrive/SD-CSDM/extensions/sd-webui-controlnet
+git clone https://github.com/deforum-art/deforum-for-automatic1111-webui /content/drive/MyDrive/SD-CSDM/extensions/deforum-for-automatic1111-webui
+git clone https://github.com/camenduru/tunnels /content/drive/MyDrive/SD-CSDM/extensions/tunnels
+git clone https://github.com/ngovinhcuong/ghepmat2 /content/drive/MyDrive/SD-CSDM/extensions/ghepmat2
+git clone https://github.com/hako-mikan/sd-webui-lora-block-weight /content/drive/MyDrive/SD-CSDM/extensions/sd-webui-lora-block-weight
+git clone https://github.com/ashen-sensored/stable-diffusion-webui-two-shot /content/drive/MyDrive/SD-CSDM/extensions/stable-diffusion-webui-two-shot
+git clone https://github.com/Bing-su/Adetailer /content/drive/MyDrive/SD-CSDM/extensions/Adetailer
+git clone https://github.com/fkunn1326/openpose-editor /content/drive/MyDrive/SD-CSDM/extensions/openpose-editor
+git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor /content/drive/MyDrive/SD-CSDM/extensions/sd-webui-3d-open-pose-editor
+git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/drive/MyDrive/SD-CSDM/extensions/a1111-sd-webui-tagcomplete
+git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg /content/drive/MyDrive/SD-CSDM/extensions/stable-diffusion-webui-rembg
